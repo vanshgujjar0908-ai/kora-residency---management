@@ -1,0 +1,8 @@
+{
+  "name": "Kora Residency — Hostel & PG Management Platform",
+  "description": "Full-stack Hostel and Paying Guest management platform featuring a public marketing website, live bed availability, tenant portal, and admin property & CMS console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
